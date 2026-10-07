@@ -53,7 +53,7 @@ Data Structures • Problem Solving • OOP • API Integration
 ## Experience
 
 **Software Development Intern**  
-Kodnest Technologies (Nov 2025 – My 2026)  
+Kodnest Technologies (Nov 2025 – May 2026)  
 - Worked on Java, Python, MySQL, frontend development  
 - Built and tested modules with debugging practices  
 - Integrated frontend and backend components  
