@@ -70,6 +70,16 @@ A responsive movie search application that retrieves movie information through t
 
 **Tech Stack:** HTML · CSS · JavaScript · REST API · OMDb API
 
+
+### Demo Login Credentials
+
+Use the following credentials to explore the application:
+
+- **Email:** `demo@example.com`
+- **Password:** `demo123`
+
+> Note: These are demo credentials. Update them to match the credentials configured in the application.
+
 - **Live Demo:** [View Application](https://ananthan3117.github.io/Movie-Search-Web-App/)
 - **GitHub Repository:** [View Source Code](https://github.com/Ananthan3117/Movie-Search-Web-App)
 
